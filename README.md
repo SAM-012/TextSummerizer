@@ -1,4 +1,3 @@
-I'll create a more specific README.md based on your code:
 
 ```markdown
 # Text Summarizer
